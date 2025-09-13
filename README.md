@@ -1,2 +1,2 @@
-# hw2-f25
-SI539
+# hw2_simple_css
+Starter code for simple css assignment
